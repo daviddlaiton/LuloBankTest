@@ -2,7 +2,7 @@
 
 The objective of this project was to create an application that authorizes a transaction for a specific account following a set of predefined rules. In order to complete the challenges some assumptions were made:
 
-1. If inn the **stdin**  a empty line or a invalid JSON is entered it will be omitted.
+1. If in the **stdin**  a empty line or a invalid JSON is entered it will be omitted.
 2. When a "account-not-initialized" violations is thrown it will include the account information provided like this:  *{"account" : {"id":2,"active-card":false,"available-limit":0,"violations":["account-not-initialized]}*
 3. Always the output will include the account id be like this:  *{"account" : {"id":2,"active-card":false,"available-limit":0,"violations":["account-not-initialized]}*
 
