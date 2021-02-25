@@ -9,8 +9,11 @@ The objective of this project was to create an application that authorizes a tra
 ## Getting Started
 To get a copy of these project install git bash, open it from the command line and use
 ```bash
-$ git clone: https://github.com/daviddlaiton/LuloBankTest.git
+$ git clone:  https://github.com/daviddlaiton/LuloBankTest.git
 ```
+In *LuloBankCodeChallenge* folder will be the project available. 
+
+
 The code will be in srs/main package. There are 4 classes:
 1. **Console Input**: Allows Gson parse the *stdin* JSON into the proper Object.
 2. **Main Class**: Manages the main logic of the project, including the business rules.
