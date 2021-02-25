@@ -38,7 +38,7 @@ Once is running in the command line the project will wait for every line and pro
 
 You just need the Java 1.8 SDK .
 
-If you wanna run it from Eclipse you have to installed.
+If you wanna run it from Eclipse you have to install it.
 
 ## Test it
 
